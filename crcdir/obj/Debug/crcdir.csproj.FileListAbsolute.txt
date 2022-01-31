@@ -1,0 +1,9 @@
+C:\projects\crcdir\crcdir\bin\Debug\crcdir.exe
+C:\projects\crcdir\crcdir\bin\Debug\crcdir.pdb
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.csprojAssemblyReference.cache
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.Form1.resources
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.Properties.Resources.resources
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.csproj.GenerateResource.cache
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.csproj.CoreCompileInputs.cache
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.exe
+C:\projects\crcdir\crcdir\obj\Debug\crcdir.pdb
